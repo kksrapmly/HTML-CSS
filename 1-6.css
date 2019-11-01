@@ -1,0 +1,44 @@
+* {
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+}
+
+
+/* main-visual */
+.main-visual {
+  width: 100%;
+  height: 800px;
+}
+.visual-item1 {
+  width: 100%;
+  height: 200px;
+  background-image: url(img/box1.jpg);
+  background-size: cover;
+  background-position: center;
+  float: left;
+}
+.visual-item2 {
+  width: 100%;
+  height: 200px;
+  background-image: url(img/box2.jpg);
+  background-size: cover;
+  background-position: center;
+  float: left;
+}
+.visual-item3 {
+  width: 100%;
+  height: 200px;
+  background-image: url(img/box3.jpg);
+  background-size: cover;
+  background-position: center;
+  float: left;
+}
+.visual-item4 {
+  width: 100%;
+  height: 200px;
+  background-image: url(img/box4.jpg);
+  background-size: cover;
+  background-position: center;
+  float: left;
+}
